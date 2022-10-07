@@ -1,2 +1,3 @@
 # WordleAppClone
 JS/HTML/CSS with Node Server 
+This is a Wordle game clone I built with the help of Ania Kubów from youtube. It is really great to see women in the technology industry and to be able to learn from them. This application uses basic web fundamentals: JavaScript, CSS, and HTML. It was important for me to know how to build a front end application with the basics before I moved onto learning frameworks like React or Angular, I also think that the better my fundamental knowledge the more I can do with a framework. The backend is run with Node.js because it works seamlessly with the JavaScript on the front end, its fast and does not require lengthy coding. 
