@@ -15,4 +15,9 @@ This is a Wordle game clone I built with the help of Ania Kubów from YouTube. I
 ### Install and Play!
 - Unfortunately, Heroku no longer offers a free deployment server where this site used to be hosted. However, the following installation instructions have been added so you have play right on your local machine. 
 - 1.) Install Necessary Dependencies: 
--     *you will need Node and NPM in order to run this on your machine. 
+    -  you will need Node and NPM in order to run this on your machine. 
+    -  In your terminal run the following commands to check if you have Node and NPM already installed: 
+    ```
+    node -v
+    npm -v 
+    ```  
