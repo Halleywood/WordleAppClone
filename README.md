@@ -10,7 +10,10 @@ This is a Wordle game clone I built with the help of Ania Kubów from YouTube. I
 - Axios 
 
 ### Development Approach 
-- rgergergreger
+- This application has very minimal HTML and CSS, it uses JavaScript to dynamically render the rows and boxes so that we can capture user input from both the keyboard letter strokes as well as the word guess. 
+- It was first developed with a hardcoded 5 letter word to test all of the necessary logic like turning letters green, grey, or yellow and ensuring all of our JavaScript was manipiulating the DOM as intended. 
+- Once the game logic was working, we could then set up http request to a Random word API to set the answer to a random 5 letter word at th beginning of the game. 
+- The application also uses a Dictionary API to verify each guess is as an actual word. 
 
 ### Install and Play!
 - Unfortunately, Heroku no longer offers a free deployment server where this site used to be hosted. However, the following installation instructions have been added so you have play right on your local machine. 
