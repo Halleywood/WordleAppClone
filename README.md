@@ -25,9 +25,10 @@ This is a Wordle game clone I built with the help of Ania Kubów from YouTube. I
 - 2.) Once you have installed the necessary dependencies, you can download the code from the GitHub either by downloading the zip file and extracting it OR cloning it into the directory of your choice. 
     - Simply go to github repositoy here: https://github.com/Halleywood/WordleAppClone and click the big green Code button to download or get the http address to clone it 
 - 3.) Once downloaded, in your terminal navigate to the directory where you downloaded the code and run the following command: 
- ```
- npm start 
- ```   - This will start the node server! 
-        - It should automatically run on port 3000, but please take not of what port your server is running on. 
+     ```
+   npm start
+    ```  
+    - This will start the node server! 
+    - It should automatically run on port 3000, but please take not of what port your server is running on. 
  - 4.) Now in the browser of your choice, navigate to: http://localhost:3000/ *OR* if your server if running on a different port, replace "3000" with the port your machine is running on. 
  - 5.) Have fun! 
