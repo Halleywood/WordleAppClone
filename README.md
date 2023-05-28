@@ -21,3 +21,5 @@ This is a Wordle game clone I built with the help of Ania Kubów from YouTube. I
     node -v
     npm -v 
     ```  
+    - If you need to install them, you have visit https://nodejs.org for instructions on how to get the latest version. 
+- 2.) Once you have installed the necessary dependencies, you can download the code from the GitHub either by downloading the zip file and extracting it OR cloning it into the directory of your choice. 
